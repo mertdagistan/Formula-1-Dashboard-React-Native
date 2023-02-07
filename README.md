@@ -1,1 +1,1 @@
-# Formula-1-Dashboard-React-Native
+# Formula 1 Dashboard Mobile App
